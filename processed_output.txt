@@ -1,0 +1,4 @@
+name	age	gender
+Alice	25.0	F
+Bob		M
+Carol	30.0	F
