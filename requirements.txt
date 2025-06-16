@@ -1,4 +1,9 @@
 streamlit
 pandas
-chardet
+scikit-learn
+numpy
 openpyxl
+chardet
+scipy
+langchain
+langchain-community
